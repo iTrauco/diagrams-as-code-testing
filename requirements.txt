@@ -1,0 +1,6 @@
+jupyterlab
+graphviz
+matplotlib
+networkx
+requests
+gcp-diagrams
